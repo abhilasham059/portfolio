@@ -69,7 +69,7 @@
 	height: auto;
 	color: white;
 	background-color: deeppink;
-	background-image: url('./image/about-image.jpg');
+	background-image: url("./abhi.jpg.jpeg");
 	background-size: contain ;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -82,7 +82,7 @@
 	justify-content: center;
 }
 .about-profile{
-	/* background-image:url('http://fklavye.net/media/images/rbozdag/profile.png'); */
+	/* background-image:url('./abhi.jpg.jpeg'); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -241,7 +241,7 @@ td {
   	margin: auto 0;
 }
 .aboutme .left{
-	background: white url("https://media.istockphoto.com/id/1307257555/photo/teenager-girl-during-homeschooling.jpg?s=612x612&w=0&k=20&c=7jiJdzd27ee-rnnNg5ohuo4qM1H4dYGyH-3RKVlGbhQ=") no-repeat center;
+	background: white url("./image/abhi.jpg.jpeg") no-repeat center;
     background-size: cover;
     width:101rem;
     height: 23rem;
